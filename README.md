@@ -7,7 +7,7 @@
 ## 使用
 
 ```bash
-docker run -it xuexb/docker-centos7-ifconfig
+docker run -it xuexb/docker-centos7-ifconfig /bin/bash
 ```
 
 ### --net=none
